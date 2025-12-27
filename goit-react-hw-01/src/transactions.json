@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1e0700a2-5183-4291-85cc-2065a036a683",
+    "type": "invoice",
+    "amount": "964.82",
+    "currency": "USD"
+  },
+  {
+    "id": "c31330e6-27ae-4d15-b5e9-c13217b5d020",
+    "type": "payment",
+    "amount": "133.19",
+    "currency": "EUR"
+  },
+  {
+    "id": "2c3afb7c-8518-4eec-bc6b-b689619778fb",
+    "type": "withdrawal",
+    "amount": "2447.23",
+    "currency": "USD"
+  }
+]

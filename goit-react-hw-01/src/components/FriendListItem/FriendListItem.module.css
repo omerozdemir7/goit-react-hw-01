@@ -1,0 +1,39 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background-color: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 8px;
+  background-color: #f3f4f6;
+}
+
+.name {
+  margin: 0;
+  font-weight: 600;
+  font-size: 18px;
+  color: #111827;
+}
+
+.status {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.online {
+  color: #16a34a; /* Green-600 */
+}
+
+.offline {
+  color: #dc2626; /* Red-600 */
+}
